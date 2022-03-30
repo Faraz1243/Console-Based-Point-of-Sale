@@ -1,0 +1,5 @@
+faraz^123^admin^033293777^1212^adress
+asif^321^iv_ctrl^033293777^779612^adress
+affan^123^admin^033293777^5234^abc
+umar^132^cashier^033293777^123^asdf
+ali^123^cashier^033293777^23^123sc
